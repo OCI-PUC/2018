@@ -64,7 +64,6 @@ sábado 30 | [Clase 6](clase-06) | :repeat: Repaso de `while`
 Día       | Evento              | Contenido
 ---------:| ------------------- | --------------------------
 sábado 07 | [Clase 7](clase-07) | :repeat: Ciclos \#2: `for`
-sábado 28 | [Clase 8](clase-08) | :repeat: Repaso de `for`
 
 ### Agosto
 
